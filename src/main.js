@@ -1,3 +1,4 @@
+//The mods are: Redesigned Aesthetic(50), Background Music for Play(10), New Title Screen(15), Time Remaining on Display(15), and a Title Theme (10)
 //create game configuration object
 let config =  {
     type: Phaser.CANVAS,
